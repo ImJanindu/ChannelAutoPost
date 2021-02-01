@@ -7,7 +7,6 @@ This bot can send all new messages from one channel, directly to another channel
 > `APP_ID` and `API_HASH` - Get it from my.telegram.org   
 > `BOT_TOKEN` - Get it from [@BotFather](https://t.me/BotFather)  
 > `FROM_CHANNEL` - Channel id which you forward posts from
-
 > `TO_CHANNEL` - Channel which you want to forward posts
 
 * Chose a platform to deploy on:
