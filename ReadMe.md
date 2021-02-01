@@ -27,7 +27,7 @@ Add the above values to the environment vars and deploy the bot.
 Add the bot to both channels with admin permission, and thats it!
 All new messages will be auto-posted!!
 
-Visit [@TeamCyphers](https://t.me/TeamCyphers) for help.
+Visit [@Infinity_BOTs](https://t.me/Infinity_BOTs) for updates.
 ## Credits
 > [Lonami](https://github.com/LonamiWebs), for [Telethon](https://github.com/LonamiWebs/Telethon).   
 > [xditya](https://github.com/xditya)   
