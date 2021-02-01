@@ -5,7 +5,10 @@ This bot can send all new messages from one channel, directly to another channel
 ## Setting up 
 * First:
 > `APP_ID` and `API_HASH` - Get it from my.telegram.org   
-> `BOT_TOKEN` - Get it from [@BotFather](https://t.me/BotFather)   
+> `BOT_TOKEN` - Get it from [@BotFather](https://t.me/BotFather)  
+> `FROM_CHANNEL` - Channel id which you forward posts from
+> `TO_CHANNEL` - Channel which you want to forward posts
+
 * Chose a platform to deploy on:
 <details>
 <summary>Heroku/Kintohub/Zeet</summary>
@@ -15,8 +18,8 @@ Add the above values to the environment vars and deploy the bot.
 <details>
 <summary>Local Deploys</summary>
 <br>
-- Clone the repo:   <code>git clone https://github.com/xditya/ChannelAutoForwarder</code></br>
-- Make a <code>.env</code> file in the root of the repo, like <a href="https://github.com/xditya/ChannelAutoForwarder/blob/main/.env.sample">.env.sample</a> and fill in the values.</br>
+- Clone the repo:   <code>git clone https://github.com/ImJanindu/ChannelAutoPost</code></br>
+- Make a <code>.env</code> file in the root of the repo, like <a href="https://github.com/ImJanindu/ChannelAutoPost/blob/main/.env.sample">.env.sample</a> and fill in the values.</br>
 - Use <code>python3 bot.py</code> to start the bot.</br>  
 </details>
 
