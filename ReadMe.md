@@ -9,6 +9,8 @@ This bot can send all new messages from one channel, directly to another channel
 > `FROM_CHANNEL` - Channel id which you forward posts from
 > `TO_CHANNEL` - Channel which you want to forward posts
 
+You must add your bot to both channels as admin before deploy
+
 * Chose a platform to deploy on:
 <details>
 <summary>Heroku/Kintohub/Zeet</summary>
