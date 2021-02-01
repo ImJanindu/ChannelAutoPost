@@ -30,5 +30,5 @@ All new messages will be auto-posted!!
 Visit [@TeamCyphers](https://t.me/TeamCyphers) for help.
 ## Credits
 > [Lonami](https://github.com/LonamiWebs), for [Telethon](https://github.com/LonamiWebs/Telethon).   
-> [xditya](https://github.com/xditya), me.   
-> [@ettan_fan](https://t.me/ettan_fan), for the whole idea.   
+> [xditya](https://github.com/xditya)   
+> [@ettan_fan](https://t.me/ettan_fan)
